@@ -1,0 +1,8 @@
+{
+  "scripts":{
+     "start":"peerjs --port ${PORT:-9000}"
+  },
+  "dependencies": {
+    "peer": "^0.6.1"
+  }
+}
